@@ -1,0 +1,11 @@
+{
+    "type": "data",
+    "data":{
+        "baidu.com": [
+            "123"
+        ],
+        "zhihu.com": [
+            "456"
+        ]
+    }
+}
